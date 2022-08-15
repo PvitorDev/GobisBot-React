@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+.ok {
+  margin-bottom: 20px;
 
+}
 .header {
   text-align: center;
+  margin-top: 30px;
 }
 .header h1 {
   font-family: 'Montserrat', sans-serif;
