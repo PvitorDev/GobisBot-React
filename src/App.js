@@ -1,5 +1,6 @@
 import "./App.css";
 import Card from "./components/Card";
+import Social from "./components/Social";
 function App() {
   return (
     <div>
@@ -9,6 +10,8 @@ function App() {
       <div className="cards">
         <Card />
       </div>
+
+      <Social />
     </div>
   );
 }
