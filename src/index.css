@@ -6,7 +6,8 @@
   }
   
   body {
-    background: rgb(125, 4, 186);
+    background: rgb(120, 9, 121);
+      background: linear-gradient(90deg, rgba(120, 9, 121, 1) 0%, rgba(232, 6, 223, 1) 41%, rgba(192, 0, 255, 1) 100%);
     ;
     padding: 2em 0;
     line-height: 1.6;
