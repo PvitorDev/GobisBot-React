@@ -5,7 +5,7 @@
 }
 
 .card {
-    background: rgb(105, 5, 104);
+    background: rgb(68, 5, 105);
     width: 24em;
     border-radius: 0.6em;
     margin: 1em;
@@ -68,6 +68,6 @@
 
 
 .card:hover {
-    background: rgb(87, 1, 100);
+    background: rgb(57, 1, 100);
 
 }
